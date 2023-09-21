@@ -31,7 +31,7 @@ This is a hands-on workshop, so please remember to bring your own laptop. We bel
 
 ## Pre-Requisites:
 
-•	Laptop with Win10 or Win11, and .NET 4.7.2 (Download .NET Framework 4.7.2 ) installed
+•	Laptop with Win10 or Win11, and .NET 4.7.2 (link Download .NET Framework 4.7.2 <https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472> ) installed
 
 •	Latest edge browser (chromium), or Chrome installed
 
