@@ -1,6 +1,6 @@
 # Workshop: Empowering Robotic Process Automation Enthusiasts: Harnessing the Potential of Power Automate
-Asset library for MPPC 23 RPA Workshop
 
+Asset library for [MPPC 23 RPA Workshop](https://powerplatformconf.com/#!/workshop/Empowering%20Robotic%20Process%20Automation%20Enthusiasts:%20Harnessing%20the%20Potential%20of%20Power%20Automate/5838)
 
 This hands-on workshop is designed to equip you with the essential knowledge and best practices required to get started on Microsoft Power Automate. You will learn directly from Microsoft’s Product Group about the product features, capabilities and some exciting tips and tricks. This workshop will provide you with a solid foundation to launch your journey with Power Automate Cloud Flows and Desktop Flows.
 
