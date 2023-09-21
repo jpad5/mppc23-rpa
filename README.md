@@ -31,16 +31,15 @@ This is a hands-on workshop, so please remember to bring your own laptop. We bel
 
 ## Pre-Requisites:
 
-•	Laptop with Win10 or Win11, and .NET 4.7.2 [Download .NET Framework 4.7.2] installed
- [Download .NET Framework 4.7.2] : https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472 
-
+•	Laptop with Win10 or Win11, and .NET 4.7.2 [Download .NET Framework 4.7.2] (https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) installed
+ 
 •	Latest edge browser (chromium), or Chrome installed
 
 •	Login credentials to log into the machine
 
-•	Latest Power Automate for desktop application installed (Install Power Automate - Power Automate)
+•	Latest Power Automate for desktop application installed [Install Power Automate - Power Automate] (https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 
-•	Latest Power Automate Browser extensions installed (Install Power Automate browser extensions - Power Automate)
+•	Latest Power Automate Browser extensions installed [Install Power Automate browser extensions - Power Automate] (https://learn.microsoft.com/en-us/power-automate/desktop-flows/install-browser-extensions)
 
 •	Make sure to have permission to install Contoso applications.
 
