@@ -8,13 +8,18 @@ This hands-on workshop is designed to equip you with the essential knowledge and
 
 •	Desktop Flows Foundations
 
-•	UI Automation to extract data from web and excel applications
+•	UI Automation for desktop applications
+
+•	Excel and SharePoint automation 
+
+•	Triggering Cloud and Desktop flows
 
 •	Orchestrate your Automations
 
-•	Leveraging capabilities to scale up your automations
+•	Leveraging capabilities to scale up your automations (like Work queues and Hosted machine groups)
 
 •	Advanced concepts of AI Builder, Co-Pilot, etc.
+
 
 
 ## Hands-On Experience:
@@ -24,7 +29,7 @@ This is a hands-on workshop, so please remember to bring your own laptop. We bel
 
 •	Time: 9 AM – 4 PM (Staff will be in the room at 8 AM)
 
-•	Location: MGM Grand Conference Center: TBD 
+•	Location: MGM Grand Conference Center: 368 Chairman's Ballroom Level 3  
 
 - What to Bring: Your laptop and an appetite for learning!
 
@@ -48,3 +53,5 @@ This is a hands-on workshop, so please remember to bring your own laptop. We bel
 •	Make sure you can create a browser profile to use.
 
 •	Ability for the machine to connect to the Internet
+
+•	Download the sample application - https://github.com/jpad5/mppc23-rpa/blob/main/ContosoInvoicingSetup.msi
